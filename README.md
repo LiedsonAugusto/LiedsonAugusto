@@ -3,8 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liedson-augusto-0b10b8215/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_liedaug/)
 
-![Liedson GitHub stats](https://github-readme-stats.vercel.app/api?username=LiedsonAugusto&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiedsonAugusto)](https://github.com/anuraghazra/github-readme-stats)
+![Liedson GitHub stats](https://github.com/LiedsonAugusto)
+[![Top Langs](https://github.com/LiedsonAugusto)
 
 ### Linguagens usadas no meu dia a dia
 <div style="display: inline_block">
