@@ -7,11 +7,12 @@
 [![Liedson GitHub stats](https://github-readme-stats.vercel.app/api?username=LiedsonAugusto&show_icons=true&theme=radical)](https://github.com/LiedsonAugusto)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiedsonAugusto&show_icons=true&theme=radical)](https://github.com/LiedsonAugusto)
 
-### Linguagens usadas no meu dia a dia 👨‍💻
+### Ferramentas usadas no meu dia a dia 👨‍💻
 <div style="display: inline_block">
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
 ### Linguagens que desejo adquirir conhecimento 📚
