@@ -18,7 +18,7 @@
   <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-### Linguagens que desejo adquirir conhecimento 📚
+### Linguagens que desejo aprender 📚
 <div style="display: inline_block">
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
