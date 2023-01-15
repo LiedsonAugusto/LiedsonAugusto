@@ -4,8 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liedson-augusto-0b10b8215/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_liedaug/)
 
-[![Liedson GitHub stats](https://github-readme-stats.vercel.app/api?username=LiedsonAugusto&show_icons=true&theme=radical)](https://github.com/LiedsonAugusto)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiedsonAugusto&show_icons=true&theme=radical)](https://github.com/LiedsonAugusto)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiedsonAugusto&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiedsonAugusto&layout=compact&hide_border=true&title_color=00bfbf&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Ferramentas usadas no meu dia a dia 👨‍💻
 <div style="display: inline_block">
